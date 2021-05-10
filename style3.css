@@ -73,14 +73,20 @@ html {
     {
       width:100%;
       height: 50vh;
+      margin-right: 0rem;
     }
     .row{
       flex-wrap: wrap;
     }
-
+    .sectiontop
+    {
+      left:50%;
+    }
     .contact
     {
         top:20%;
+        font-size: medium;
+        left:30%;
 
     }
 
